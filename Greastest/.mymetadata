@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="Greastest"
+  id="myeclipse.1501328806633"
+  context-root="/Greastest"
+  j2ee-spec="6.0"
+  archive="Greastest.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
